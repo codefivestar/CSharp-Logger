@@ -1,0 +1,7 @@
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\bin\Debug\CSharp-How-to-open-and-append-to-a-log-file.exe.config
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\bin\Debug\CSharp-How-to-open-and-append-to-a-log-file.exe
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\bin\Debug\CSharp-How-to-open-and-append-to-a-log-file.pdb
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\obj\Debug\CSharp-How-to-open-and-append-to-a-log-file.csproj.CoreCompileInputs.cache
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\obj\Debug\CSharp-How-to-open-and-append-to-a-log-file.exe
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\obj\Debug\CSharp-How-to-open-and-append-to-a-log-file.pdb
+C:\Users\pugah\Source\Repos\CSharp-How-to-open-and-append-to-a-log-file\CSharp-How-to-open-and-append-to-a-log-file\obj\Debug\CSharp-How-to-open-and-append-to-a-log-file.csprojAssemblyReference.cache
